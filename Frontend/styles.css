@@ -1,0 +1,3 @@
+.MuiList-root li:nth-last-child(-n+2) {
+    display: none;
+  }
